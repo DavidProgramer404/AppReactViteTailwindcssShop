@@ -79,7 +79,7 @@ const Navbar = () => {
                     
                     className={({ isActive }) => isActive ? activeStyle : 'underline'}
                     >
-                        My Acount
+                        Mi Cuenta
                     </NavLink>
                 </li>
                 <li>
@@ -87,7 +87,7 @@ const Navbar = () => {
                     
                     className={({ isActive }) => isActive ? activeStyle : 'underline'}
                     >
-                        Sign in
+                        Iniciar Sesión
                     </NavLink>
                 </li>
                 <li>
